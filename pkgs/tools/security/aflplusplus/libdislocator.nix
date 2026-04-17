@@ -28,7 +28,7 @@ stdenv.mkDerivation {
   '';
 
   meta = {
-    homepage = "https://github.com/vanhauser-thc/AFLplusplus";
+    homepage = "https://github.com/AFLplusplus/AFLplusplus";
     description = ''
       Drop-in replacement for the libc allocator which improves
       the odds of bumping into heap-related security bugs in
